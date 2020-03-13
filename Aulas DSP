@@ -1,0 +1,15 @@
+DSP 13/03/2020
+
+Tranf. forrier - sinais
+Laplace - sistema (transformada Z)
+sistema -> filtro
+x(t)-> L()-> y(t) ----> y(t)=x(t)*h(t) (convolução)
+Y(s) = X(s)H(s)
+
+Slide 9 aula 2 - tarefa
+
+Exercicio:
+x[n] = cos(3pi/8n) -> N=16/3 * k -> k=3 entao N = 16
+x[n] = cos(n) -> N= 2pi * k -> n periodico
+x[n] = cos(pi*n) -> N=2* k -> k=1 entao N = 2
+x[n] = cos(3pi*n) -> N=2/3* k -> k=3 entao N = 2
